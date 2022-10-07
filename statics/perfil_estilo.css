@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(216, 216, 216);
+    margin: 0;}
+
+p{  
+    display: flex;
+    justify-content: center;
+}
+
+.c{
+    text-align: center;
+}
+
+h1{
+    margin: 1px;
+}

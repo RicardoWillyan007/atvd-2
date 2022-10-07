@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+}
+
+p{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.texto{
+    color:beige
+}
+
+.foto{
+    display: flex;
+}
